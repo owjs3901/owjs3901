@@ -4,7 +4,7 @@
 I am a freelancer developer and coding teacher.
 
 Do you want to view my detail profile?
-[Go to my profile site!](https://owjs3901.github.io/](https://flax-capybara-c52.notion.site/b586bceeb868413ea0205c2fe1090a7e)
+[Go to my profile site!](https://flax-capybara-c52.notion.site/b586bceeb868413ea0205c2fe1090a7e)
 
 # 📚 Career
 - Soongsil University AI Convergence
